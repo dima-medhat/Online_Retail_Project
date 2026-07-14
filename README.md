@@ -25,8 +25,6 @@ This project analyzes an online retail dataset and presents the results through 
 
 - `Online_Retail_Project.ipynb` – Complete data analysis notebook.
 - `app.py` – Streamlit dashboard application.
-- `Online_Retail_Cleaned.csv` – Cleaned dataset used by the dashboard.
-- `online_retail.csv` – Original dataset.
 - `README.md` – Project documentation.
 
 ## 🧹 Data Preparation
